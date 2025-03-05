@@ -31,5 +31,4 @@ Required Python packages: pubnub, json, time.
 - The script runs for a predefined duration (e.g., 10 minutes) and saves data at regular intervals (e.g., every 10 changes).
 
 *References:*
-   - Links to PubNub documentation and related resources. PubNub Python SDK
-   - https://www.pubnub.com/demos/real-time-data-streaming/
+   - PubNub documentation: https://www.pubnub.com/demos/real-time-data-streaming/
