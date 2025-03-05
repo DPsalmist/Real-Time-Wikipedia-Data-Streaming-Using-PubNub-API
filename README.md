@@ -20,13 +20,9 @@ Required Python packages: pubnub, json, time.
 *Setup Instructions:*
 
 1. **Clone the Repository**
-    - git clone https://github.com/yourusername/pubnub-wikipedia-streaming.git
-    - cd pubnub-wikipedia-streaming
+    - git clone  https://github.com/DPsalmist/Real-Time-Wikipedia-Data-Streaming-Using-PubNub-API.git
 
-2. **Install Dependencies**
-   - pip install -r requirements.txt
-
-3. **Run app**
+2. **Run app**
    - python wikipedia_stream.py
 
 *Usage:*
